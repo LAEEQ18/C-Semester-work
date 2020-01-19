@@ -1,0 +1,5 @@
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb

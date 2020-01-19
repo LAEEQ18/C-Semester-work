@@ -1,0 +1,5 @@
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.pdb
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication10\ConsoleApplication10\obj\x86\Debug\ConsoleApplication10.exe
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication10\ConsoleApplication10\obj\x86\Debug\ConsoleApplication10.pdb
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication10\ConsoleApplication10\obj\x86\Debug\ConsoleApplication10.csprojResolveAssemblyReference.cache

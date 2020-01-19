@@ -1,0 +1,12 @@
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Fahad\Desktop\VP Assignment 1\Task 10\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+C:\Users\Fahad\Desktop\VP Assignment 1\Task 10\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+C:\Users\Fahad\Desktop\VP Assignment 1\Task 10\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Fahad\Desktop\VP Assignment 1\Task 10\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Fahad\Desktop\VP Assignment 1\Task 10\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\MALIK 98\Documents\vp\Task 10\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+C:\Users\MALIK 98\Documents\vp\Task 10\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb

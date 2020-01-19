@@ -1,0 +1,7 @@
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+c:\users\fahad\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+C:\Users\Fahad\Documents\Visual Studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Fahad\Desktop\VP Assignment 1\Task 9\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+C:\Users\Fahad\Desktop\VP Assignment 1\Task 9\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb

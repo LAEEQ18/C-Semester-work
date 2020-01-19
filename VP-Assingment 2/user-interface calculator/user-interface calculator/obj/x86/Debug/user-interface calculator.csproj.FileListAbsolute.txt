@@ -1,0 +1,8 @@
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\obj\x86\Debug\user_interface_calculator.F1.resources
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\obj\x86\Debug\user_interface_calculator.Properties.Resources.resources
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\obj\x86\Debug\user-interface calculator.csproj.GenerateResource.Cache
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\bin\Debug\user-interface calculator.exe
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\bin\Debug\user-interface calculator.pdb
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\obj\x86\Debug\user-interface calculator.exe
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\obj\x86\Debug\user-interface calculator.pdb
+E:\GCU\Semester 4\Visual-Programming(VP)\lab task\user-interface calculator\user-interface calculator\obj\x86\Debug\user-interface calculator.csprojResolveAssemblyReference.cache
